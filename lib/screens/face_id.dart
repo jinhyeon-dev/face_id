@@ -144,8 +144,8 @@ class _FaceIdScreenState extends State<FaceIdScreen> {
   }
 }
 
-enum _SupportState {
-  unknown,
-  supported,
-  unsupported,
-}
+// enum _SupportState {
+//   unknown,
+//   supported,
+//   unsupported,
+// }
